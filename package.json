@@ -1,6 +1,6 @@
 {
   "name": "@247grad/system-text-json-refs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parses System.Text.Json references",
   "keywords": [
     "json",
